@@ -165,5 +165,7 @@ same as before. Added more h tags and some alt tags for the working images.
 ![horison](./assets/assets/images/horiseon-refactor.jpeg)
 
 ## Link
+
+https://alfredoji.github.io/horiseon-defactor/
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
