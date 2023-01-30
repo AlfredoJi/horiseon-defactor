@@ -154,5 +154,16 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+## Description of Application
+
+This application is a updated on the Horiseon website with fixed links and alt tags. The website looks the same but with changes with the HTML code. 
+And small ones with the CSS code. Added semantic tags in the HTML code to make it follow a more logical order but kept most of the HTML code the 
+same as before. Added more h tags and some alt tags for the working images.
+
+## Final Image
+
+![horison](Assets\horiseon-refactor.jpeg)
+
+## Link
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
